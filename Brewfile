@@ -9,6 +9,7 @@ brew "docker"
 brew "gh"
 brew "openjdk"
 brew "google-cloud-sdk"
+brew "pnpm"
 
 # GUI applications
 cask "visual-studio-code"
